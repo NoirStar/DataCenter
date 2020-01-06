@@ -1,6 +1,7 @@
 # datacenter
 
-> web project
+> 수집된 데이터의 분석결과를 시각화 하여 보여줌.
+> 분석데이터를 챗봇에 적용시키기 위한 REST API 서비스 제공
 
 ## Build Setup
 
@@ -23,5 +24,3 @@ npm run unit
 # run all tests
 npm test
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
